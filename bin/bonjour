@@ -1,4 +1,4 @@
-#1/usr/bin/env ruby
+#!/usr/bin/env ruby
 
 require 'bonjour'
 puts Bonjour.hi(ARGV[0])
